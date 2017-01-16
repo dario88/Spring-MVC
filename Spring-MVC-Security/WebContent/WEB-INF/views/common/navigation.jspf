@@ -1,0 +1,5 @@
+<p style="width:500px; color:white; padding: 15px; background-color:#D8D8D8">
+	<a href="/step32">Home</a>
+	| <a href="lista-esami">Esami</a>
+	| <a style="float: right" href="logout">Logout</a>
+</p>

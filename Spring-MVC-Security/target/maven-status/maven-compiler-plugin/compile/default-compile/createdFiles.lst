@@ -1,0 +1,7 @@
+com/spring/step32/esame/EsameController.class
+com/spring/step32/model/Esame.class
+com/spring/step32/login/LoginController.class
+com/spring/step32/HomeController.class
+com/spring/step32/login/LoginService.class
+com/spring/step32/security/SecurityConfiguration.class
+com/spring/step32/esame/EsameService.class
