@@ -9,6 +9,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *  - riconosca le annotation
  *  - riconosca le configurazioni
  *  - ecc...
+ *
+ *  Praticamente equivale a scrivere:
+ *  - @Configuration
+ *  - @EnableAutoConfiguration
+ *  - @ComponentScan
  */
 @SpringBootApplication
 public class SpringBootMain {
